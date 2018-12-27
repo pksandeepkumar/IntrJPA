@@ -9,6 +9,7 @@ public class IntrjpaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(IntrjpaApplication.class, args);
+                System.out.println("Working template");
 	}
 
 }
